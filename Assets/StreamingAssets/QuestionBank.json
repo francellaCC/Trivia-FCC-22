@@ -1,0 +1,280 @@
+
+[
+  {
+  "nombreDificultad": "Super Easy",
+  "preguntas": [
+    {
+      "enunciado": "¿Cuántas patas tiene la araña?",
+      "respuestas": [
+        { "texto": "8" },
+        { "texto": "9" },
+        { "texto": "18" },
+        { "texto": "6" }
+      ],
+      "rightAnswer": 0
+    },
+    {
+      "enunciado": "¿Cómo le llaman a los textos de autores desconocidos?",
+      "respuestas": [
+       
+        { "texto": "anónimo" },
+        { "texto": "desconocidos" },
+        { "texto": "sin nombre" },
+        { "texto": "nose" }
+      ],
+      "rightAnswer": 0
+    },
+    {
+      "enunciado": "¿¿Cuál es la moneda oficial de Estados Unidos?",
+      "respuestas": [
+        { "texto": "Dolar" },
+        { "texto": "Yen" },
+        { "texto": "Centimos" },
+        { "texto": "Colon" }
+      ],
+      "rightAnswer": 0
+    },
+    {
+      "enunciado": "¿A quién le crecía la nariz cuando mentía?",
+      "respuestas": [
+        { "texto": "Pinocho" },
+        { "texto": "Tintin" },
+        { "texto": "Cricri" },
+        { "texto": "Raton perez" }
+        
+      ],
+      "rightAnswer": 0
+    },
+    {
+      "enunciado": "¿Qué rama de la Biología estudia los animales?",
+      "respuestas": [
+        { "texto": "Zoologia" },
+        { "texto": "Animalia" },
+        { "texto": "Anatomia" },
+        { "texto": "Ciencias" }
+      ],
+      "rightAnswer": 0
+    }
+  ]
+},
+{
+  "nombreDificultad": "Easy",
+  "preguntas": [
+    {
+      "enunciado": "¿Qué es un animal carnívoro?",
+      "respuestas": [
+        { "texto": "Los que comen carne" },
+        { "texto": "Los que comen vegetales" },
+        { "texto": "Comen de todo" },
+        { "texto": "Comen pasto" }
+      ],
+      "rightAnswer": 0
+    },
+    {
+      "enunciado": "¿Cuál es el órgano más grande del cuerpo humano?",
+      "respuestas": [
+        { "texto": "Piel" },
+        { "texto": "Cerebro" },
+        { "texto": "Corazon" },
+        { "texto": "Venas" }
+      ],
+      "rightAnswer": 0
+    },
+    {
+      "enunciado": "¿En qué año apareció en el mercado el primer videojuego protagonizado por Super Mario?",
+      "respuestas": [
+        { "texto": "1981" },
+        { "texto": "a1881" },
+        { "texto": "1980" },
+        { "texto": "1982" }
+      ],
+      "rightAnswer": 0
+    },
+    {
+      "enunciado": "¿Cuál es el “País del Sol Naciente”?",
+      "respuestas": [
+        { "texto": "Japon" },
+        { "texto": "China" },
+        { "texto": "Taiwuan" },
+        { "texto": "Tailandia" }
+      ],
+      "rightAnswer": 0
+    },
+    {
+      "enunciado": "Los olmecas, zapotecas y toltecas fueron pueblos indígenas pertenecientes a:",
+      "respuestas": [
+        { "texto": "Mesoamérica" },
+        { "texto": "Sudamérica" },
+        { "texto": "Norteamérica" },
+        { "texto": "Amazonía" }
+      ],
+      "rightAnswer": 0
+    }
+  ]
+},
+{
+  "nombreDificultad": "Medium",
+  "preguntas": [
+    {
+      "enunciado": "¿Qué hora es en inglés 'It is a quarter past six'?",
+      "respuestas": [
+        { "texto": "6:15" },
+        { "texto": "6:45" },
+        { "texto": "3:46" },
+        { "texto": "5:45" }
+      ],
+      "rightAnswer": 0
+    },
+    {
+      "enunciado": "¿A quién se le atribuye la frase 'Solo sé que no sé nada'?",
+      "respuestas": [
+        { "texto": "Sócrates" },
+        { "texto": "Nietszche" },
+        { "texto": "Aristóteles" },
+        { "texto": "Salomón" }
+      ],
+      "rightAnswer": 0
+    },
+    {
+      "enunciado": "¿Cuantos dientes tiene un tiburon?",
+      "respuestas": [
+        { "texto": "20.000" },
+        { "texto": "200" },
+        { "texto": "34" },
+        { "texto": "4000" }
+      ],
+      "rightAnswer": 0
+    },
+    {
+      "enunciado": "¿Cuál es el lugar más frío de la tierra?",
+      "respuestas": [
+        { "texto": "Antártida" },
+        { "texto": "Los Andes" },
+        { "texto": "Suecia" },
+        { "texto": "Rusia" }
+      ],
+      "rightAnswer": 0
+    },
+    {
+      "enunciado": "¿Cómo se llama la Reina del Reino Unido?",
+      "respuestas": [
+        { "texto": "Isabel II" },
+        { "texto": "Isabel I" },
+        { "texto": "No tiene reina" },
+        { "texto": "Lucia III" }
+      ],
+      "rightAnswer": 0
+    }
+  ]
+},
+{
+  "nombreDificultad": "Hard",
+  "preguntas": [
+    {
+      "enunciado": "¿Cuáles son los dioses griegos correspondientes a los dioses romanos Júpiter y Plutón?",
+      "respuestas": [
+        { "texto": "Zeus y Hades" },
+        { "texto": "Dionisio y Démeter" },
+        { "texto": "Cronos y Apolo" },
+        { "texto": "Zeus y Ares" }
+      ],
+      "rightAnswer": 0
+    },
+    {
+      "enunciado": "¿Quién fue el primer hombre en pisar la Luna?",
+      "respuestas": [
+        { "texto": "Neil Armstrong" },
+        { "texto": "Yuri Gagarin" },
+        { "texto": "Michael Collins" },
+        { "texto": "Charles Conrad" }
+      ],
+      "rightAnswer": 0
+    },
+    {
+      "enunciado": "¿Cuál es el tipo sanguíneo considerado como 'donante universal'?",
+      "respuestas": [
+        { "texto": "Tipo O" },
+        { "texto": "Tipo A" },
+        { "texto": "Tipo B" },
+        { "texto": "Tipo AB" }
+      ],
+      "rightAnswer": 0
+    },
+    {
+      "enunciado": "¿Cuál es el cromosoma que determina el sexo masculino?",
+      "respuestas": [
+        { "texto": "El cromosoma Y" },
+        { "texto": "El cromosoma X" },
+        { "texto": "El cromosoma Z" },
+        { "texto": "El cromosoma XY" }
+      ],
+      "rightAnswer": 0
+    },
+    {
+      "enunciado": "¿Quién pintó la bóveda de la capilla sixtina?",
+      "respuestas": [
+        { "texto": "Miguel Angel" },
+        { "texto": "Rafael" },
+        { "texto": "Leonardo da Vinci" },
+        { "texto": "Donatello" }
+      ],
+      "rightAnswer": 0
+    }
+  ]
+},
+{
+  "nombreDificultad": "Extra Hard",
+  "preguntas": [
+    {
+      "enunciado": "Según la leyenda de la fundación de Roma, ¿quién amamantó a los gemelos Rómulo y Remo?",
+      "respuestas": [
+        { "texto": "Una loba" },
+        { "texto": "Una cabra" },
+        { "texto": "Una oveja" },
+        { "texto": "Una gata" }
+      ],
+      "rightAnswer": 0
+    },
+    {
+      "enunciado": "Cuál es el único número primo par?",
+      "respuestas": [
+        { "texto": " 2" },
+        { "texto": "3" },
+        { "texto": " 1" },
+        { "texto": "6" }
+      ],
+      "rightAnswer": 0
+    },
+    {
+      "enunciado": "¿Qué sustancia es absorbida por las plantas y expirada por los animales?",
+      "respuestas": [
+        { "texto": "Dióxido de carbono" },
+        { "texto": "Oxígeno" },
+        { "texto": "Nitrato de sodio" },
+        { "texto": "Dióxido de hierro" }
+      ],
+      "rightAnswer": 0
+    },
+    {
+      "enunciado": "¿Quién fue el maestro de Platón?",
+      "respuestas": [
+        { "texto": "Sócrates" },
+        { "texto": "Diógenes" },
+        { "texto": "Aristóteles" },
+        { "texto": "Pirilampo" }
+      ],
+      "rightAnswer": 0
+    },
+    {
+      "enunciado": "¿Cuál es el país más grande y el más pequeño del mundo?",
+      "respuestas": [
+        { "texto": " Rusia y Vaticano." },
+        { "texto": "India y San Marino" },
+        { "texto": "China y Nauru" },
+        { "texto": "Canadá y Mónaco" }
+      ],
+      "rightAnswer": 0
+    }
+  ]
+}
+]
